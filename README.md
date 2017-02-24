@@ -1,6 +1,8 @@
 # Laundry
 
-Add comment to Qiita team.
+Chrome Extension for posting comments on Qiita team's articles.
+
+![image](https://cloud.githubusercontent.com/assets/1620566/23297414/c4aae984-fabc-11e6-9ff1-83e61f8a8d46.png)
 
 ## Installation
 
